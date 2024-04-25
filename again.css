@@ -20,9 +20,8 @@ body{
 	justify-content: space-evenly;
 	margin-right: 100px;
 	text-align: center;
+	border: solid;
 }
-
-
 
 h1{
 	font-size: 50px;
